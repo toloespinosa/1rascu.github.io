@@ -1,0 +1,90 @@
+
+.encabezado{
+    text-align: center;
+    background: transparent
+    
+}
+
+.nav {
+    align-items: center;
+    justify-content: center;
+    margin: none;
+    font-size: 0;
+}
+
+header button{
+    margin: none;
+    background-color: #0f0f0f;
+    border-left: none;
+    border-right: 2px solid #000000BB;
+    border-top: none;
+    border-bottom: none;
+    color: #f5f3ef;
+    padding: 0.5em 1em;
+    text-align: center;
+}
+
+.imagenprincipal{
+    background-image: url("../img/bg-header.jpg");
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fotperfil{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: black;
+    letter-spacing: 0px;color: #FFFFFF;opacity: 1;
+    margin: 0;
+    text-align: center;
+}
+.EDU{
+    text-align: center;
+    padding: 50px;
+
+}
+
+.EXP{
+
+ 
+    text-align: center;
+    padding: 50px;
+    
+}
+
+.contenedoriconos{
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.iconos{
+    text-align: center;
+}
+
+
+
+
+footer{
+   
+    text-align: center;
+    padding: 20px;
+}
+
+.flex-align-wrap {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+
